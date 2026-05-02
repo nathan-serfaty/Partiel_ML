@@ -1,0 +1,21 @@
+{
+  "xgboost_optimized": {
+    "max_depth": 5,
+    "n_estimators": 200,
+    "learning_rate": 0.05,
+    "subsample": 0.7,
+    "colsample_bytree": 0.7,
+    "test_f1": 0.5419142310734633,
+    "cv_f1": 0.7415122073493873
+  },
+  "lightgbm_optimized": {
+    "max_depth": 5,
+    "n_estimators": 200,
+    "learning_rate": 0.05,
+    "subsample": 0.85,
+    "colsample_bytree": 0.85,
+    "min_child_samples": 50,
+    "test_f1": 0.5665025395992969,
+    "cv_f1": 0.7387207159248877
+  }
+}
