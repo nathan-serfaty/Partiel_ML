@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+matplotlib
+seaborn
+plotly
+statsmodels
+prophet
+transformers
+sentence-transformers
+nltk
+jupyter
+shap
+pyarrow
+nbformat

@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Venv
+.venv/
+venv/
+env/
+
+# Data (raw zips are large)
+*.zip
+data/raw/
+data/processed/*.csv
+data/processed/*.parquet
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Log interne
+CLAUDE_LOG.md
+
+# Models (large binaries)
+models/*.pkl
+models/*.joblib
