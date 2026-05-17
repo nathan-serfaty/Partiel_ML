@@ -1,0 +1,205 @@
+[
+  {
+    "language": "Java",
+    "n_samples": 48,
+    "n_decline": 0,
+    "accuracy": 0.08333333333333333,
+    "f1": 0.07692307692307693
+  },
+  {
+    "language": "PHP",
+    "n_samples": 48,
+    "n_decline": 7,
+    "accuracy": 0.14583333333333334,
+    "f1": 0.12727272727272726
+  },
+  {
+    "language": "Delphi/Object Pascal",
+    "n_samples": 48,
+    "n_decline": 17,
+    "accuracy": 0.3541666666666667,
+    "f1": 0.26153846153846155
+  },
+  {
+    "language": "Ruby",
+    "n_samples": 48,
+    "n_decline": 0,
+    "accuracy": 0.4583333333333333,
+    "f1": 0.3142857142857143
+  },
+  {
+    "language": "Objective-C",
+    "n_samples": 48,
+    "n_decline": 0,
+    "accuracy": 0.4583333333333333,
+    "f1": 0.3142857142857143
+  },
+  {
+    "language": "VB.NET",
+    "n_samples": 48,
+    "n_decline": 22,
+    "accuracy": 0.4583333333333333,
+    "f1": 0.3142857142857143
+  },
+  {
+    "language": "Julia",
+    "n_samples": 48,
+    "n_decline": 25,
+    "accuracy": 0.4791666666666667,
+    "f1": 0.323943661971831
+  },
+  {
+    "language": "Perl",
+    "n_samples": 48,
+    "n_decline": 28,
+    "accuracy": 0.5833333333333334,
+    "f1": 0.3684210526315789
+  },
+  {
+    "language": "MATLAB",
+    "n_samples": 48,
+    "n_decline": 0,
+    "accuracy": 0.5833333333333334,
+    "f1": 0.3684210526315789
+  },
+  {
+    "language": "Groovy",
+    "n_samples": 48,
+    "n_decline": 29,
+    "accuracy": 0.4583333333333333,
+    "f1": 0.390625
+  },
+  {
+    "language": "COBOL",
+    "n_samples": 48,
+    "n_decline": 32,
+    "accuracy": 0.6666666666666666,
+    "f1": 0.4
+  },
+  {
+    "language": "C/C++",
+    "n_samples": 48,
+    "n_decline": 0,
+    "accuracy": 0.6875,
+    "f1": 0.4074074074074074
+  },
+  {
+    "language": "VBA",
+    "n_samples": 48,
+    "n_decline": 0,
+    "accuracy": 0.7708333333333334,
+    "f1": 0.43529411764705883
+  },
+  {
+    "language": "Abap",
+    "n_samples": 48,
+    "n_decline": 0,
+    "accuracy": 0.8541666666666666,
+    "f1": 0.4606741573033708
+  },
+  {
+    "language": "Lua",
+    "n_samples": 48,
+    "n_decline": 0,
+    "accuracy": 0.875,
+    "f1": 0.4666666666666667
+  },
+  {
+    "language": "Swift",
+    "n_samples": 48,
+    "n_decline": 0,
+    "accuracy": 0.9375,
+    "f1": 0.4838709677419355
+  },
+  {
+    "language": "C#",
+    "n_samples": 48,
+    "n_decline": 0,
+    "accuracy": 0.9583333333333334,
+    "f1": 0.48936170212765956
+  },
+  {
+    "language": "JavaScript",
+    "n_samples": 48,
+    "n_decline": 1,
+    "accuracy": 0.9791666666666666,
+    "f1": 0.49473684210526314
+  },
+  {
+    "language": "Haskell",
+    "n_samples": 48,
+    "n_decline": 37,
+    "accuracy": 0.6875,
+    "f1": 0.629439011837365
+  },
+  {
+    "language": "Scala",
+    "n_samples": 48,
+    "n_decline": 15,
+    "accuracy": 0.7916666666666666,
+    "f1": 0.6842105263157895
+  },
+  {
+    "language": "Go",
+    "n_samples": 48,
+    "n_decline": 0,
+    "accuracy": 1.0,
+    "f1": 1.0
+  },
+  {
+    "language": "Dart",
+    "n_samples": 48,
+    "n_decline": 0,
+    "accuracy": 1.0,
+    "f1": 1.0
+  },
+  {
+    "language": "PowerShell",
+    "n_samples": 48,
+    "n_decline": 0,
+    "accuracy": 1.0,
+    "f1": 1.0
+  },
+  {
+    "language": "Python",
+    "n_samples": 48,
+    "n_decline": 0,
+    "accuracy": 1.0,
+    "f1": 1.0
+  },
+  {
+    "language": "R",
+    "n_samples": 48,
+    "n_decline": 0,
+    "accuracy": 1.0,
+    "f1": 1.0
+  },
+  {
+    "language": "Ada",
+    "n_samples": 48,
+    "n_decline": 0,
+    "accuracy": 1.0,
+    "f1": 1.0
+  },
+  {
+    "language": "Rust",
+    "n_samples": 48,
+    "n_decline": 0,
+    "accuracy": 1.0,
+    "f1": 1.0
+  },
+  {
+    "language": "TypeScript",
+    "n_samples": 48,
+    "n_decline": 0,
+    "accuracy": 1.0,
+    "f1": 1.0
+  },
+  {
+    "language": "Kotlin",
+    "n_samples": 48,
+    "n_decline": 0,
+    "accuracy": 1.0,
+    "f1": 1.0
+  }
+]
